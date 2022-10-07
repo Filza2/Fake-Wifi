@@ -7,6 +7,6 @@
 - root
 - some Python modules 
 - mdk3 Package
-
+- Fake Hotspots Names in File With Type .lst Like SSID.lst
 ## Beta Tool 
 ## Thank you for downloading
