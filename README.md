@@ -7,6 +7,7 @@
 - root
 - some Python modules 
 - mdk3 Package
+- airmon-ng Package 
 - Fake Hotspots Names in File With Type .lst Like SSID.lst
 ## Beta Tool 
 ## Thank you for downloading
